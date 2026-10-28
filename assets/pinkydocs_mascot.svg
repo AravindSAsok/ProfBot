@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">PinkyDocs Spark</title>
+  <desc id="desc">A friendly round pink creature with a small electric star and curled antennae.</desc>
+  <defs>
+    <linearGradient id="body" x1="24" y1="20" x2="92" y2="102" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFB8D7"/>
+      <stop offset="1" stop-color="#E879AC"/>
+    </linearGradient>
+    <linearGradient id="spark" x1="86" y1="15" x2="105" y2="38" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE38A"/>
+      <stop offset="1" stop-color="#FFC44D"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 37c-8-9-5-19 5-22 9-3 16 4 15 13" fill="none" stroke="#C84D89" stroke-linecap="round" stroke-width="6"/>
+  <path d="M78 28c2-10 11-15 19-10 7 5 6 15-2 20" fill="none" stroke="#C84D89" stroke-linecap="round" stroke-width="6"/>
+  <path d="M25 54c0-20 15-34 35-34 20 0 35 14 35 34v20c0 19-15 31-35 31S25 93 25 74V54Z" fill="url(#body)" stroke="#C84D89" stroke-width="3"/>
+  <path d="M40 62c0-4 3-7 6-7s6 3 6 7-3 6-6 6-6-2-6-6Zm29 0c0-4 3-7 6-7s6 3 6 7-3 6-6 6-6-2-6-6Z" fill="#34253D"/>
+  <path d="M55 76c3 3 7 3 10 0" fill="none" stroke="#8F3866" stroke-linecap="round" stroke-width="3"/>
+  <ellipse cx="34" cy="76" rx="7" ry="4" fill="#F58AB8" opacity=".75"/>
+  <ellipse cx="86" cy="76" rx="7" ry="4" fill="#F58AB8" opacity=".75"/>
+  <path d="m99 18 3 7 7 3-7 3-3 7-3-7-7-3 7-3 3-7Z" fill="url(#spark)" stroke="#D89A36" stroke-linejoin="round" stroke-width="1.5"/>
+  <path d="M44 103c4 5 10 8 16 8s12-3 16-8" fill="none" stroke="#C84D89" stroke-linecap="round" stroke-width="3" opacity=".55"/>
+</svg>
