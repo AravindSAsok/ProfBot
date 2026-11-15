@@ -1,3 +1,7 @@
+<p align="center"><img src="https://raw.githubusercontent.com/AravindSAsok/ProfBot/main/assets/pinkydocs_mascot.svg" width="104" alt="PinkyDocs AI mascot" /></p>
+<p align="center"><strong>Your documents. Your answers.</strong></p>
+<p align="center"><img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" /> <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-1.65-FF4B4B?logo=streamlit&logoColor=white" /> <img alt="Gemini" src="https://img.shields.io/badge/Google%20Gemini-GenAI-8E75B2?logo=googlegemini&logoColor=white" /> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-Postgres%20%2B%20Storage-3FCF8E?logo=supabase&logoColor=white" /> <img alt="Tests" src="https://img.shields.io/badge/Tests-Pytest-0A9EDC?logo=pytest&logoColor=white" /></p>
+
 # PinkyDocs AI
 
 PinkyDocs AI is a document question-answering application with a Python CLI and a Streamlit web interface. Upload a PDF or TXT file, paste text, select the documents for a conversation, and ask questions grounded in retrieved passages.
